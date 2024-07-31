@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aftab862
-- 👀 I’m interested in ... Development and management 
+- 👀 I’m interested in ... Web Development  
 - 🌱 I’m currently learning ... Mern stack 
 - 💞️ I’m looking to collaborate on ...Anyone
 - 📫 How to reach me ...aftabahmad862862@gmail.com
